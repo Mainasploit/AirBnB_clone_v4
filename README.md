@@ -60,7 +60,7 @@ Where we are creating a command line interpretor to access objects that will sto
 ----------------------------------------
 
 **Authors**
-- **James Mutua**, \<mutuajamesnzioka@gmail.com
+- **Kelvin Maina**, \<mainasploit@gmail.com
 
 ----------------------------------------
 
